@@ -1,0 +1,12 @@
+clone:
+  skip_verify: true
+publish:
+  docker:
+    registry: prod.mcgenesy.com:5000
+    username: romick
+    password: sd4v98ar
+    email: roman.milovanov@gmail.com
+    repo: meteor-build-env
+    tag: latest
+    file: Dockerfile
+    insecure: true
