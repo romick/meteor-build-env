@@ -10,3 +10,4 @@ publish:
     tag: latest
     file: Dockerfile
     insecure: true
+
